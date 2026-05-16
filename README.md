@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Animated Wave Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0f3460&height=200&section=header&text=Dipti%20Ranjan%20Nayak&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%2FML%20Platform%20Lead%20%7C%20Enterprise%20Data%20Architect%20%7C%20Generative%20AI%20Practitioner&descAlignY=58&descSize=17&descColor=8b949e" />
+<!-- Header wave — proven GitHub-hosted asset used by thousands of profiles -->
+<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="header wave" />
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Dipti+Ranjan+Nayak" alt="name" />
+</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=8b949e&center=true&vCenter=true&width=900&height=30&lines=Data+%26+AI%2FML+Platform+Lead+%7C+Enterprise+Data+Architect+%7C+Generative+AI+Practitioner" alt="title" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -10,8 +15,8 @@
 
 <br/>
 
-<!-- Colored name banner using SVG text rendering -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=〈%20Dipti%20Ranjan%20Nayak%20〉&height=80&fontSize=42&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=drnayak%20%7C%20Data%20%26%20AI%2FML%20Platform%20Lead&descColor=79c0ff&descSize=15&descAlign=50&descAlignY=80" />
+<!-- Subtitle line — typing-svg with single frozen line, always renders -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=79C0FF&center=true&vCenter=true&width=700&height=40&lines=drnayak+%7C+Data+%26+AI%2FML+Platform+Lead" alt="subtitle" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipti-ranjan-nayak)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@drnayak41)
@@ -208,9 +213,7 @@ My vision is to build **AI-first, intelligent data platforms** deeply embedded i
 
 <img width="68%" src="https://streak-stats.demolab.com/?user=drnayak&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
 
-<br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drnayak&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -287,8 +290,8 @@ I'm always open to discussing **enterprise data architecture**, **AI/ML platform
 
 <br/>
 
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0D1117&height=120&section=footer&animation=twinkling" />
+<!-- Footer wave — proven GitHub-hosted SVG -->
+<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_down.svg" alt="footer wave" />
 
 <sub>Built with clarity · Powered by data · Driven by intelligence</sub>
 
